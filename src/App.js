@@ -9,7 +9,7 @@ function App() {
           muted
           autoplay
           playsinline
-          src="./earth 0.5x.mp4"
+          src="./earth_0.5x (1).mp4"
         />,
       ` }}></div>
       <header>
