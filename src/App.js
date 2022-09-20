@@ -4,6 +4,7 @@ function App() {
       <div dangerouslySetInnerHTML={{
         __html: `
         <video
+         preload="auto/metadata/none"
           loop
           muted
           autoplay
