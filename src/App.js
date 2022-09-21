@@ -26,13 +26,11 @@ function App() {
           autoPlay={true}
           muted
           loop={true}
+          playsInline
           poster="./image 21.png"
           className="full_screen_video"
-          playsinline
-        >
-          <source src="./earth_0.5x (1).mp4" type="video/mp4" />
-          <source src="./earth_0.5x (1) (video-converter.com).webm" type="video/webm" />
-        </video>
+          src="./earth_0.5x (1).mp4"
+        />
       </div>
       <div className="cities">
         <div className="cities_container">
