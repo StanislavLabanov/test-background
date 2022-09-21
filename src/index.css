@@ -174,7 +174,7 @@ h1{
 .top_content_one{
   display: flex;
   align-items: flex-start;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 
 .top_image{
@@ -195,8 +195,8 @@ h1{
 
 .name{
   position: absolute;
-  top: 20px;
-  left: 20px;
+  top: 15px;
+  left: 15px;
   font-weight: 500;
   font-size: 1.39vw;
   color: #0B0A3E;
@@ -206,7 +206,7 @@ h1{
   margin: 1.39vw 0 3.472vw 0;
   display: flex;
   align-items: flex-start;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 
 .top_two_image{
@@ -244,7 +244,7 @@ margin-right: 0;
 .center_content{
   display: flex;
   align-items: flex-start;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 
 .cont img{
