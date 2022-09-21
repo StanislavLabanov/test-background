@@ -185,13 +185,13 @@ h1{
 }
 
 .top_image:first-child{
-  background: url('../public/Group 330.png') no-repeat center;
+  background: url('../public/Group 330.png');
   background-size: 100% 100%;
   margin-right: 1.39vw;
 }
 
 .top_image:last-child{
-  background: url('../public/Group 331.png')no-repeat center;
+  background: url('../public/Group 331.png');
   background-size: 100% 100%;
 }
 
@@ -224,17 +224,17 @@ margin-right: 0;
 }
 
 .top_two_image:nth-child(1){
-  background: url('../public/Group 332.png') no-repeat center;
+  background: url('../public/Group 332.png');
   background-size: 100% 100%;
 }
 
 .top_two_image:nth-child(2){
-  background: url('../public/Group 333.png') no-repeat center;
+  background: url('../public/Group 333.png');
   background-size: 100% 100%;
 }
 
 .top_two_image:nth-child(3){
-  background: url('../public/Group 334.png') no-repeat center;
+  background: url('../public/Group 334.png');
   background-size: 100% 100%;
 }
 
