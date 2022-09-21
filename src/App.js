@@ -28,8 +28,10 @@ function App() {
           loop={true}
           poster="./image 21.png"
           className="full_screen_video"
-          src="./earth_0.5x (1).mp4"
-        />
+        >
+          <source src="./earth_0.5x (1) (video-converter.com).webm" type="full_screen_video" />
+          <source src="./earth_0.5x (1).mp4" type="full_screen_video" />
+        </video>
       </div>
       <div className="cities">
         <div className="cities_container">

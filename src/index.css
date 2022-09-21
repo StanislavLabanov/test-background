@@ -12,6 +12,11 @@ code {
     monospace;
 }
 
+@font-face {
+  font-family: 'Distant Galaxy';
+  src: local('Distant Galaxy'),
+    url('../public/fonts/DISTGRG_.ttf');
+}
 
 .full_screen{
   position: relative;
@@ -61,6 +66,7 @@ header{
 }
 
 .header_title{
+  font-family: 'Distant Galaxy';
   font-weight: 500;
   font-size: 3.472vw;
   color: #FFFFFF;
